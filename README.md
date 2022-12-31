@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <a href="https://raw.githubusercontent.com/CristianSilvera/e2e_test_31122022/5733e1580e86b458ca99f3f3f2b2cc7a114ecfac/public/wdio-logo.svg" width="200" alt="Wdio Logo" /></a>
+  <img src="https://github.com/CristianSilvera/e2e_test_31122022/blob/master/public/wdio-logo.svg" width="200"/>
 </p>
 
 [circleci-image]: https://img.shields.io/circleci/build/github/nestjs/nest/master?token=abc123def456
